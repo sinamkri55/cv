@@ -1,0 +1,19 @@
+body {
+
+  background-color: rgb(50%, 35%, 15%);
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  height: 0px;
+  width: 5%
+}
+
+h3{
+  color: pink;
+  font-size: 20px;
+}
